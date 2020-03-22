@@ -1,3 +1,6 @@
+https://help.github.com/cn/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll  
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/xingjinglu/xingjinglu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
