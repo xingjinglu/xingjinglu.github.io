@@ -4,6 +4,7 @@ https://help.github.com/cn/github/working-with-github-pages/creating-a-github-pa
 ```bash  
 
 bundle install
+bundle update
 bundle exec jekyll serve
 https://www.jianshu.com/p/3caaed303880
 ```  
