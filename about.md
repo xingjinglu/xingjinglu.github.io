@@ -2,6 +2,5 @@
 layout: default
 title: About
 ---
-# About page
+Xingjing Lu
 
-# HPC  
